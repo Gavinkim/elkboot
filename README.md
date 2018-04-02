@@ -4,7 +4,7 @@
 spring boot sample for elasticsearch and spring data jpa , logstash
 how to insert to elasticsearch and database
 how to search from elasticsearch and database
-send to logstash using logback
+log send to logstash using logback-encoder
 </pre>
 
 ## download elasticsearch
