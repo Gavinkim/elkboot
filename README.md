@@ -1,4 +1,4 @@
-# Elasticsearch for spring boot Sample
+# Elasticsearch for spring boot sample
 
 ## 1. download elasticsearch
 * [download link] ()https://www.elastic.co/kr/downloads/elasticsearch)
