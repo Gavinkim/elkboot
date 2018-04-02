@@ -7,8 +7,8 @@ how to search from elasticsearch and database
 </pre>
 
 ## download elasticsearch
-* [download link] ()https://www.elastic.co/kr/downloads/elasticsearch)
-* [download link] ()https://www.elastic.co/kr/downloads/logstash)
+* [download link] [https://www.elastic.co/kr/downloads/elasticsearch]
+* [download link] [https://www.elastic.co/kr/downloads/logstash]
 
 ## run elasticsearch and logstash
 * <download elasticsearch>/bin/elasticsearch
