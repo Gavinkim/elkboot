@@ -7,7 +7,9 @@
 * bin/elasticsearch
 
 ## 3. spring boot application
-** propertieys for elasticsearch
-** domain [document(indexname,type)]
-** elasticsearchRepository
 
+<pre>
+- propertieys for elasticsearch
+- domain [document(indexname,type)]
+- elasticsearchRepository
+</pre>
