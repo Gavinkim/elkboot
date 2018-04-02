@@ -7,7 +7,7 @@ how to search from elasticsearch and database
 log send to logstash using logback-encoder
 </pre>
 
-## download elasticsearch
+## download elasticsearch and logstash
 * [download link] [https://www.elastic.co/kr/downloads/elasticsearch]
 * [download link] [https://www.elastic.co/kr/downloads/logstash]
 
