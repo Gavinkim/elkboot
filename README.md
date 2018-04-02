@@ -11,8 +11,8 @@ how to search from elasticsearch and database
 * [download link] [https://www.elastic.co/kr/downloads/logstash]
 
 ## run elasticsearch and logstash
-* <download elasticsearch>/bin/elasticsearch
-* <download logstash>/bin/logstash
+* [download elasticsearch]/bin/elasticsearch
+* [download logstash]/bin/logstash
 
 ## custom pipeline config logstash
 
